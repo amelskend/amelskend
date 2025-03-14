@@ -45,7 +45,10 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" height="40" alt="kali linux logo"  />
 </div>
 
 ###
